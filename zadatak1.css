@@ -1,0 +1,13 @@
+table,td,th{
+    border: 1px solid black;
+}
+
+table{
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+}
+
+td,th{
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+}
