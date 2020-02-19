@@ -1,0 +1,14 @@
+h1{
+    border-bottom: 2px solid gray;
+    border-top: 2px solid gray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+div{
+    margin-right: 70%;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
